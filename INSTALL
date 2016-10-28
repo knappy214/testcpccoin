@@ -1,0 +1,9 @@
+Building CpcCoin
+
+See doc/readme-qt.rst for instructions on building cpccoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CpcCoin.
+
+See doc/build-*.txt for instructions on building cpccoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of CpcCoin.

@@ -1,0 +1,4 @@
+find . -type f -exec sed -i "s/CpcCoin/CpcCoin/g" {} \;
+find . -type f -exec sed -i "s/cpccoin/cpccoin/g" {} \;
+find . -type f -exec sed -i "s/CPCCOIN/CPCCOIN/g" {} \;
+find . -type f -exec sed -i "s/CPC/CPC/g" {} \;
